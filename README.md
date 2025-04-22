@@ -13,18 +13,26 @@ Uma agência de viagens especializada em turismo personalizado
  - Permitir que usuários planegem suas viagens, cadastrando detalhes como, tipo de transporte, duração da viagem e pontos de parada.
  - O aplicativo deve sugerir lugares interessantes  ao longo do percurso.
  - Deve permitir a integração com sistemas de turismos personalizados como Nattrip, Seven Senses
+ - O aplicativo deve possuir um grau elevado de cripitografia para aevitar vazamentos de placas e dados de veículos cadastrados.
+
  
 # Requisitos Funcionais (RF)
  - Permtir que os usuários realizem buscas de viagens.
- - permitir que o usuário cadastre detalhes como tipo de transporte, duração de viagem e pontos de parada.
+ - Filtros de viagens de acordo com as preferências de usuários. 
+ - Permitir o cadastro de veículo.
+ - Permitir que o usuário cadastre detalhes como, duração de viagem e pontos de parada.
  - Notificações pop-up mostrando sugestões de lugares interessantes ao longo do percurso, baseando-se em avaliações de turistas anteriores.
- - Permitir cadastro de usuário.
+ - Permitir cadastro de usuário caso seja a primeira vez de acesso, ou login caso já seja cliente. 
  - Permitir troca de mensagem entre agência de viagens e usuário.
+
 # Requisitos Não Funcionais (RNF)
-- O aplicativo deve ter versões plenamente funcioanis em desktop, celular (tanto IOS quanto Android) e Web
+- O aplicativo deve ter versões plenamente funcionais em desktop, celular (tanto IOS quanto Android) e Web
 - A taxa de resposta de ação do aplicativo deve ser rápida.
 - A aplicação deve suportar 20000 acessos simultâneos.
 - Interface de simples compreensão e fácil usabilidade.
+- O sistema deve estar disponível 24/7
+- Bckup e recuperação, o sistema deve ter backups regulares para evitar perca massiva de dados. 
+ 
 
    
    
