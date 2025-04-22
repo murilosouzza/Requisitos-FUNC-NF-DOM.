@@ -31,7 +31,7 @@ Uma agência de viagens especializada em turismo personalizado
 - A aplicação deve suportar 20000 acessos simultâneos.
 - Interface de simples compreensão e fácil usabilidade.
 - O sistema deve estar disponível 24/7
-- Bckup e recuperação, o sistema deve ter backups regulares para evitar perca massiva de dados. 
+- Backup e recuperação, o sistema deve ter backups regulares para evitar perca massiva de dados. 
  
 
    
