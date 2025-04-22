@@ -1,4 +1,9 @@
 # Requisitos funcionais, não funcionais e de dominio.
+# Unimar (Universidade de Marilia
+# Aluno: Murilo Santos Souza, ADS noturno, turma C
+# RA: 2038823
+# Professor: Valdir 
+
 # Exercício 1
 # Cenário:
 Uma agência de viagens especializada em turismo personalizado
