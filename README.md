@@ -1,5 +1,5 @@
 # Requisitos funcionais, não funcionais e de dominio.
-# Unimar (Universidade de Marilia
+# Unimar (Universidade de Marilia)
 # Aluno: Murilo Santos Souza, ADS noturno, turma C
 # RA: 2038823
 # Professor: Valdir 
